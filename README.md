@@ -3,13 +3,21 @@
 ## Definition
 Cascading style sheets are referred to as CSS. According to JavaPoint, "It describes to the user how to display HTML elements on the screen in a proper format. CSS is the language that is used to style HTML documents." Overall, it is used for organizing the HTML webpage or application.
 
-CSS
-middle of the application. there is a cross line in the middle portrait mode. main this horozontal line mode.
+**this is the Figma creation to CSS
 ```bash
-. back_ar{
-   display: flex; # at the right side
-   justify-content: center; # tis is to center perfectly to the cross mode
-   align-items: center; # middle part     
+.text-element {
+  font-family: 'Inter', sans-serif;
+  font-weight: 800; /* Extra Bold */
+  font-size: 30px;
+  line-height: normal;
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  width: 126px;
+  height: 30px;
+  left: 292px;
+  top: 358px;
 }
+
 ```
 
